@@ -305,4 +305,13 @@ input[type=email]{
    align-items: center;
    margin-bottom: 30px;
 }
-
+.text{
+    background-image: url(assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-color: #FFFFFF;
+    height: 256px;
+    width: 1240px;
+    margin: 0 auto;
+    border-radius: 16px;
+    margin-bottom: 80px;
+}
