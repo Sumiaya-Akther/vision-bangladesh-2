@@ -144,6 +144,33 @@ color: #0e0e0ec4;
     grid-template-columns: repeat(3,1fr);
     gap: 24px;
 }
+/* dr muhammad css */
+.adviser{
+    
+    background-color: #FFFFFF;
+    height: 256px;
+    width: 1240px;
+    margin: 0 auto;
+    border-radius: 16px;
+    margin-bottom: 80px;
+    padding: 26px;
+}
+.back-img{
+    background-image: url(assets/quote-bg.png);
+    background-repeat: no-repeat;
+}
+.back-img p{
+    font-size: 16px;
+    color: #0e0e0e8f;
+    line-height: 24px;
+    margin-bottom: 30px;
+}
+.back-img h4{
+    font-size: 20px;
+    color: #0e0e0e8f;
+    line-height: 24px;
+    margin-bottom: 30px;
+}
 /* recent news css */
 .recent{
     width: 1280px;
@@ -305,13 +332,4 @@ input[type=email]{
    align-items: center;
    margin-bottom: 30px;
 }
-.text{
-    background-image: url(assets/quote-bg.png);
-    background-repeat: no-repeat;
-    background-color: #FFFFFF;
-    height: 256px;
-    width: 1240px;
-    margin: 0 auto;
-    border-radius: 16px;
-    margin-bottom: 80px;
-}
+
